@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: #FFB6A9;
+}
+.logo1{
+position: absolute;
+left: 37.84%;
+right: 37.84%;
+top: 0%;
+bottom: 70.57%;
+}
+.back{
+position: absolute;
+left: 1.91%;
+right: 1.81%;
+top: 19.29%;
+bottom: 2.31%;
+
+background: #9C1801;
+border-radius: 29px;
+}
+.picture{
+position: absolute;
+left: 64.69%;
+right: 8.46%;
+top: 25.24%;
+bottom: 38.56%;
+
+background: url(photo_2023-03-14_19-13-54.jpg);
+filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+border-radius: 21px;
+}
+.name{
+position: absolute;
+left: 12.65%;
+right: 60.89%;
+top: 22.56%;
+bottom: 68.64%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 82px;
+
+color: #DCDCDC;
+}
+.spec{
+    position: absolute;
+    left: 9.24%;
+    right: 83.66%;
+    top: 36.52%;
+    bottom: 60.15%;
+    
+    /* wizard */
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+}
+.gender{
+    position: absolute;
+left: 9.24%;
+right: 84.24%;
+top: 42.96%;
+bottom: 53.71%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.House{
+    position: absolute;
+    left: 9.24%;
+    right: 85.31%;
+    top: 49.41%;
+    bottom: 47.26%;
+    
+    /* wizard */
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+}
+
